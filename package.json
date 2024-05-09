@@ -1,0 +1,19 @@
+{
+  "name": "react-learn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bibekSahoo/react-learn.git"
+  },
+  "author": "bibek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibekSahoo/react-learn/issues"
+  },
+  "homepage": "https://github.com/bibekSahoo/react-learn#readme",
+  "description": ""
+}
