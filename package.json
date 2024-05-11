@@ -1,7 +1,6 @@
 {
   "name": "react-learn",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -15,5 +14,8 @@
     "url": "https://github.com/bibekSahoo/react-learn/issues"
   },
   "homepage": "https://github.com/bibekSahoo/react-learn#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
